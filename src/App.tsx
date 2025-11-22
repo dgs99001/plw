@@ -15,7 +15,7 @@ interface ImageBoxItem {
 }
 
 function App() {
-  const [heroImage] = useState('https://pic1.imgdb.cn/item/690dd3873203f7be00e1c52e.jpg');
+  const [heroImage] = useState('https://pic1.imgdb.cn/item/6920248f3203f7be001d08f1.jpg');
   const [heroTitle] = useState('');
   const [heroDescription] = useState('');
 
@@ -137,43 +137,43 @@ function App() {
       appUrl: 'https://tz.wx-gujdtq3.com/app/register.php?site_id=2228&topId=1661558'
     },
          {
-      id: 16,
+      id: 17,
       name: '豪门国际',
       description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/68692e6558cb8da5c89176f6.webp',
       appUrl: 'https://nvjmce.hfjcl.com/app/register.php?site_id=1008&topId=2610410'
     },
       {
-      id: 17,
+      id: 18,
       name: '28圈',
       description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/68692e6658cb8da5c89176f9.jpg',
       appUrl: 'https://156.234.70.2:61106/#/link?allwin=9437468'
     },
-               {
-      id: 18,
+                {
+      id: 19,
       name: 'NG28',
       description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/689dd5ec58cb8da5c8251893.jpg',
       appUrl: 'https://38.181.23.18:60004/#/link?allwin=22198286'
-    }, 
+    },
   ]);
 
   const [imageBoxes] = useState<ImageBoxItem[]>([
     {
       id: 1,
-      imageUrl:  'https://pic1.imgdb.cn/item/68692e6658cb8da5c89176fb.png',
-      linkUrl: 'https://www.91ajs.com/'
+      imageUrl:  'https://pic1.imgdb.cn/item/69202ede3203f7be001d1dd5.webp',
+      linkUrl: 'https://t.me/hhkk8899'
     },
     {
       id: 2,
-      imageUrl: 'https://pic1.imgdb.cn/item/68692e6658cb8da5c89176fa.png',
-      linkUrl: 'https://wwtalk.com'
+      imageUrl: 'https://pic1.imgdb.cn/item/69202de83203f7be001d1d9d.webp',
+      linkUrl: 'http://safew.org'
     },
     {
       id: 3,
-      imageUrl: 'https://p0.meituan.net/imgupload/5bb922dd3b614b2aefbffa0a0ebb0b9b636.webp%40watermark%3D0',
-      linkUrl: '#'
+      imageUrl: 'https://pic1.imgdb.cn/item/68692e6658cb8da5c89176fb.png',
+      linkUrl: 'https://www.91ajs.com'
     }
   ]);
 
