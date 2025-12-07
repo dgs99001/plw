@@ -23,14 +23,14 @@ function App() {
                  {
       id: 1,
       name: '星耀国际',
-      description: '优先注册领取百万红包雨（12月8号正式上线）',
+      description: '(新台大水)',
       iconUrl: 'https://pic1.imgdb.cn/item/69327e9bd1e741a32bf19523.jpg',
       appUrl: 'https://gedxs.hcjwj.com/app/register.php?site_id=1057&topId=22066'
     },
        {
       id: 2,
       name: '非凡娱乐 ',
-      description: '（新台大水）',
+      description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/68692e6658cb8da5c89176fd.jpg',
       appUrl: 'https://bakmry.gziasti.com/app/register.php?site_id=1050&topId=880722&selfPlanId=855049'
     },
@@ -108,42 +108,42 @@ function App() {
     },
 
          {
-      id: 12,
+      id: 13,
       name: '旺财28',
       description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/68b3af7e58cb8da5c8655b00.png',
       appUrl: 'https://wlkyiy.paradisemall.net/app/register.php?site_id=1012&topId=3926701'
     },
     {
-      id: 13,
+      id: 14,
       name: '巅峰国际',
       description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/68692e6658cb8da5c89176f8.jpg',
       appUrl: 'https://gfvgx.jgqvji.com/app/register.php?site_id=1030&topId=1744632'
     },
     {
-      id: 14,
+      id: 15,
       name: '征途国际',
       description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/68692e6658cb8da5c89176fc.jpg',
       appUrl: 'https://pkajim.hfjcl.com/app/register.php?site_id=1031&topId=1890399'
     },
      {
-      id: 15,
+      id: 16,
       name: '多多28',
       description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/686f644658cb8da5c899de0b.png',
       appUrl: 'https://wlkyiy.paradisemall.net/app/register.php?site_id=1021&topId=5519693'
     },
                 {
-      id: 16,
+      id: 17,
       name: '大满贯',
       description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/6911f7f73203f7be00ed9d46.jpg',
       appUrl: 'https://tz.wx-gujdtq3.com/app/register.php?site_id=2228&topId=1661558'
     },
        {
-      id: 17,
+      id: 18,
       name: 'C7娱乐 ',
       description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/69355ead3cf558499f245c9e.jpg',
