@@ -155,6 +155,13 @@ function App() {
       iconUrl: 'https://pic1.imgdb.cn/item/689dd5ec58cb8da5c8251893.jpg',
       appUrl: 'https://38.181.23.18:60004/#/link?allwin=22198286'
     },
+         {
+      id: 20,
+      name: '胜天国际 ',
+      description: '官方最高点位招商，月底开业',
+      iconUrl: 'https://pic1.imgdb.cn/item/6937c17f00233646958cd102.jpg',
+      appUrl: 'https://bakmry.gziasti.com/app/register.php?site_id=1050&topId=880722&selfPlanId=855049'
+    },
   ]);
 
   const [imageBoxes] = useState<ImageBoxItem[]>([
