@@ -172,8 +172,8 @@ function App() {
     },
     {
       id: 2,
-      imageUrl: 'https://pic1.imgdb.cn/item/69202de83203f7be001d1d9d.webp',
-      linkUrl: 'http://safew.org'
+      imageUrl: 'https://pic1.imgdb.cn/item/694beaf4b4105c208ac11231.webp',
+      linkUrl: 'https://www.wangwangcn.com/'
     },
     {
       id: 3,
