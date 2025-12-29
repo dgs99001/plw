@@ -23,7 +23,7 @@ function App() {
            {
       id: 1,
       name: '胜天国际 ',
-      description: '新台大水',
+      description: '（新台大水）',
       iconUrl: 'https://pic1.imgdb.cn/item/6937c17f00233646958cd102.jpg',
       appUrl: 'https://tfajn.hcjwj.com/app/register.php?site_id=1058&topId=26442&selfPlanId=1692'
     },
