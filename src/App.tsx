@@ -20,43 +20,50 @@ function App() {
   const [heroDescription] = useState('');
 
   const [apps] = useState<AppItem[]>([
-                 {
+           {
       id: 1,
+      name: '胜天国际 ',
+      description: '新台大水',
+      iconUrl: 'https://pic1.imgdb.cn/item/6937c17f00233646958cd102.jpg',
+      appUrl: 'https://tfajn.hcjwj.com/app/register.php?site_id=1058&topId=26442&selfPlanId=1692'
+    },
+                 {
+      id: 2,
       name: '星耀国际',
       description: '(新台大水)',
       iconUrl: 'https://pic1.imgdb.cn/item/69327e9bd1e741a32bf19523.jpg',
       appUrl: 'https://gedxs.hcjwj.com/app/register.php?site_id=1057&topId=22066'
     },
        {
-      id: 2,
+      id: 3,
       name: '非凡娱乐 ',
       description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/68692e6658cb8da5c89176fd.jpg',
       appUrl: 'https://bakmry.gziasti.com/app/register.php?site_id=1050&topId=880722&selfPlanId=855049'
     },
     {
-      id: 3,
+      id: 4,
       name: 'top1体育',
       description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/686c718458cb8da5c895dcf1.jpg',
       appUrl: 'https://bakmry.gziasti.com/app/register.php?site_id=1051&topId=457911'
     },
           {
-      id: 4,
+      id: 5,
       name: '东升国际',
       description: '十年老台',
       iconUrl: 'https://pic1.imgdb.cn/item/68692e6758cb8da5c89176fe.jpg',
       appUrl: 'https://tz.wx-zxivoq2.com/app/register.php?site_id=2173&topId=1090266'
     },
          {
-      id: 5,
+      id: 6,
       name: '保时捷国际',
       description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/68dbfe46c5157e1a884b253c.jpg',
       appUrl: 'https://bsjh5.agrleo.com/app/register.php?site_id=134523275&topId=82386'
     },
             {
-      id: 6,
+      id: 7,
       name: '国际人',
       description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/68a570b358cb8da5c83d12f7.jpg',
@@ -64,42 +71,42 @@ function App() {
     },
 
                 {
-      id: 7,
+      id: 8,
       name: 'NG体育',
       description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/68b3af8358cb8da5c8655b32.jpg',
       appUrl: 'https://nvjmce.hfjcl.com/app/register.php?site_id=1019&topId=10325130'
     },
             {
-      id: 8,
+      id: 9,
       name: '赏金国际',
       description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/688c1d0e58cb8da5c8f69d23.jpg',
       appUrl: 'https://xjvueb.hefaship.com/app/register.php?site_id=1010&topId=3094701'
     },
               {
-      id: 9,
+      id: 10,
       name: '壹号娱乐',
       description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/688c1d0e58cb8da5c8f69d21.webp',
       appUrl: 'https://gfvgx.jgqvji.com/app/register.php?site_id=800&pt=20784FBB-9EDA-E1C7-A955-C82CA771D0F3'
     },
                    {
-      id: 10,
+      id: 11,
       name: '亿万28',
       description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/68a570b358cb8da5c83d12f9.jpg',
       appUrl: 'https://xjvueb.hefaship.com/app/register.php?site_id=1017&topId=7061046'
     },
     {
-      id: 11,
+      id: 12,
       name: '超凡国际',
       description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/68692e6558cb8da5c89176f7.jpg',
       appUrl: 'https://pkajim.hfjcl.com/app/register.php?site_id=1032&topId=1056008'
     },
         {
-      id: 12,
+      id: 13,
       name: '问鼎国际',
       description: '十年老台',
       iconUrl: 'https://th.bing.com/th/id/R.3ff55b6d5ae91f929259d3f5fe8ee346?rik=KMsNN8o%2bXu04JQ&riu=http%3a%2f%2fimg.xz7.com%2fup%2fico%2f2024%2f0911%2f1726047132590171.png&ehk=u0ICtB1tC5UuQseS9l1DHMjKl1x8crEE3pggKWNac1Y%3d&risl=&pid=ImgRaw&r=0',
@@ -107,47 +114,40 @@ function App() {
     },
 
          {
-      id: 13,
+      id: 14,
       name: '旺财28',
       description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/68b3af7e58cb8da5c8655b00.png',
       appUrl: 'https://wlkyiy.paradisemall.net/app/register.php?site_id=1012&topId=3926701'
     },
     {
-      id: 14,
+      id: 15,
       name: '巅峰国际',
       description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/68692e6658cb8da5c89176f8.jpg',
       appUrl: 'https://gfvgx.jgqvji.com/app/register.php?site_id=1030&topId=1744632'
     },
     {
-      id: 15,
+      id: 16,
       name: '征途国际',
       description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/68692e6658cb8da5c89176fc.jpg',
       appUrl: 'https://pkajim.hfjcl.com/app/register.php?site_id=1031&topId=1890399'
     },
      {
-      id: 16,
+      id: 17,
       name: '多多28',
       description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/686f644658cb8da5c899de0b.png',
       appUrl: 'https://wlkyiy.paradisemall.net/app/register.php?site_id=1021&topId=5519693'
     },
                 {
-      id: 17,
+      id: 18,
       name: '大满贯',
       description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/6911f7f73203f7be00ed9d46.jpg',
       appUrl: 'https://tz.wx-gujdtq3.com/app/register.php?site_id=2228&topId=1661558'
     },
-       {
-      id: 18,
-      name: 'C7娱乐 ',
-      description: '首存100+100',
-      iconUrl: 'https://pic1.imgdb.cn/item/69355ead3cf558499f245c9e.jpg',
-      appUrl: 'https://103.39.18.211:7788/#/link?allwin=0RcGUSI3XYLQ0lhXzzQuiw%3D%3D'
-    }, 
                 {
       id: 19,
       name: 'NG28',
@@ -157,8 +157,8 @@ function App() {
     },
          {
       id: 20,
-      name: '胜天国际 ',
-      description: '30号正式开业，可优先注册领取百万红包',
+      name: '君临国际 ',
+      description: '官方满点招商',
       iconUrl: 'https://pic1.imgdb.cn/item/6937c17f00233646958cd102.jpg',
       appUrl: 'https://tfajn.hcjwj.com/app/register.php?site_id=1058&topId=26442&selfPlanId=1692'
     },
