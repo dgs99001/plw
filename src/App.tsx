@@ -20,15 +20,22 @@ function App() {
   const [heroDescription] = useState('');
 
   const [apps] = useState<AppItem[]>([
-           {
+                     {
       id: 1,
+      name: '新时代',
+      description: '官方满点招商',
+      iconUrl: 'https://i.postimg.cc/t4SjcBzw/xin-shi-dai.jpg',
+      appUrl: 'https://derear.fnbpsw.com/app/register.php?site_id=1059&topId=82351&selfPlanId=144338'
+    },
+    {
+      id: 2,
       name: '胜天国际 ',
       description: '（新台大水）',
       iconUrl: 'https://pic1.imgdb.cn/item/6937c17f00233646958cd102.jpg',
       appUrl: 'https://tfajn.hcjwj.com/app/register.php?site_id=1058&topId=26442&selfPlanId=1692'
     },
        {
-      id: 2,
+      id: 3,
       name: '非凡娱乐 ',
       description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/68692e6658cb8da5c89176fd.jpg',
@@ -148,19 +155,12 @@ function App() {
       iconUrl: 'https://pic1.imgdb.cn/item/6911f7f73203f7be00ed9d46.jpg',
       appUrl: 'https://tz.wx-gujdtq3.com/app/register.php?site_id=2228&topId=1661558'
     },
-                {
-      id: 19,
-      name: '新时代',
-      description: '官方满点招商',
-      iconUrl: 'https://i.postimg.cc/t4SjcBzw/xin-shi-dai.jpg',
-      appUrl: 'https://tfajn.hcjwj.com/app/register.php?site_id=1058&topId=26442&selfPlanId=1692'
-    },
          {
       id: 20,
       name: '君临国际 ',
       description: '官方满点招商',
       iconUrl: 'https://pic1.imgdb.cn/item/695248a74b4fb88febf26626.jpg',
-      appUrl: 'https://tfajn.hcjwj.com/app/register.php?site_id=1058&topId=26442&selfPlanId=1692'
+      appUrl: 'https://derear.fnbpsw.com/app/register.php?site_id=1059&topId=82351&selfPlanId=144338'
     },
   ]);
 
