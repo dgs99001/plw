@@ -23,7 +23,7 @@ function App() {
                      {
       id: 1,
       name: '新时代',
-      description: '官方满点招商',
+      description: '（新台大水）',
       iconUrl: 'https://i.postimg.cc/t4SjcBzw/xin-shi-dai.jpg',
       appUrl: 'https://derear.fnbpsw.com/app/register.php?site_id=1059&topId=82351&selfPlanId=144338'
     },
