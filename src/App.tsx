@@ -23,7 +23,7 @@ function App() {
                      {
       id: 1,
       name: '新时代',
-      description: '（注册即送88）',
+      description: '（新台大水）',
       iconUrl: 'https://i.postimg.cc/t4SjcBzw/xin-shi-dai.jpg',
       appUrl: 'https://derear.fnbpsw.com/app/register.php?site_id=1059&topId=82351&selfPlanId=144338'
     },
@@ -51,7 +51,7 @@ function App() {
           {
       id: 4,
       name: '东升国际',
-      description: '十年老台',
+      description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/68692e6758cb8da5c89176fe.jpg',
       appUrl: 'https://tz.wx-zxivoq2.com/app/register.php?site_id=2173&topId=1090266'
     },
