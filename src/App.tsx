@@ -20,6 +20,13 @@ function App() {
   const [heroDescription] = useState('');
 
   const [apps] = useState<AppItem[]>([
+         {
+      id: 1,
+      name: '君临国际 ',
+      description: '注册并绑定实名领取58和百万红包，8号正式开业',
+      iconUrl: 'https://pic1.imgdb.cn/item/695248a74b4fb88febf26626.jpg',
+      appUrl: 'https://tfajn.hcjwj.com/app/register.php?site_id=2081&topId=23647&selfPlanId=6413'
+    },
                      {
       id: 1,
       name: '新时代',
@@ -125,13 +132,6 @@ function App() {
       description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/686f644658cb8da5c899de0b.png',
       appUrl: 'https://wlkyiy.paradisemall.net/app/register.php?site_id=1021&topId=5519693'
-    },
-         {
-      id: 16,
-      name: '君临国际 ',
-      description: '官方满点招商',
-      iconUrl: 'https://pic1.imgdb.cn/item/695248a74b4fb88febf26626.jpg',
-      appUrl: 'https://derear.fnbpsw.com/app/register.php?site_id=1059&topId=82351&selfPlanId=144338'
     },
   ]);
 
