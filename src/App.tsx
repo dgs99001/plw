@@ -106,7 +106,7 @@ function App() {
     },
         {
       id: 12,
-      name: '问鼎国际',
+      name: '问鼎娱乐',
       description: '十年老台',
       iconUrl: 'https://pic1.imgdb.cn/item/6984d021312b01a291a7449f.webp',
       appUrl: 'https://onkrcy.hefaship.com/app/register.php?site_id=1020&topId=21543657'
