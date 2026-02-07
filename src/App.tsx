@@ -23,7 +23,7 @@ function App() {
          {
       id: 1,
       name: '君临国际 ',
-      description: '注册并绑定实名领取58和百万红包，8号正式开业',
+      description: '（新台大水）',
       iconUrl: 'https://pic1.imgdb.cn/item/695248a74b4fb88febf26626.jpg',
       appUrl: 'https://tfajn.hcjwj.com/app/register.php?site_id=2081&topId=23647&selfPlanId=6413'
     },
