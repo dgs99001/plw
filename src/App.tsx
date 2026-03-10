@@ -140,6 +140,13 @@ function App() {
       iconUrl: 'https://pic1.imgdb.cn/item/68692e6558cb8da5c89176f7.jpg',
       appUrl: 'https://pkajim.hfjcl.com/app/register.php?site_id=1032&topId=1056008'
     },
+    {
+      id: 17,
+      name: '巅峰国际',
+      description: '首存100+100',
+      iconUrl: 'https://pic1.imgdb.cn/item/68692e6658cb8da5c89176f8.jpg',
+      appUrl: 'https://gfvgx.jgqvji.com/app/register.php?site_id=1030&topId=1744632'
+    },
   ]);
 
   const [imageBoxes] = useState<ImageBoxItem[]>([
