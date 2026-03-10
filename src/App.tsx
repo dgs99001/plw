@@ -133,6 +133,31 @@ function App() {
       iconUrl: 'https://pic1.imgdb.cn/item/686f644658cb8da5c899de0b.png',
       appUrl: 'https://wlkyiy.paradisemall.net/app/register.php?site_id=1021&topId=5519693'
     },
+         {
+      id: 16,
+      name: '超凡国际',
+      description: '首存100+100',
+      iconUrl: 'https://pic1.imgdb.cn/item/68692e6558cb8da5c89176f7.jpg',
+      appUrl: 'https://pkajim.hfjcl.com/app/register.php?site_id=1032&topId=1056008'
+    }, {
+      id: 17,
+      name: '巅峰国际',
+      description: '首存100+100',
+      iconUrl: 'https://pic1.imgdb.cn/item/68692e6658cb8da5c89176f8.jpg',
+      appUrl: 'https://gfvgx.jgqvji.com/app/register.php?site_id=1030&topId=1744632'
+    }, {
+      id: 18,
+      name: '大满贯',
+      description: '首存100+100',
+      iconUrl: 'https://pic1.imgdb.cn/item/6911f7f73203f7be00ed9d46.jpg',
+      appUrl: 'https://tz.wx-gujdtq3.com/app/register.php?site_id=2228&topId=1661558'
+    }, {
+      id: 19
+      name: 'NG南宫',
+      description: '首存100+100',
+      iconUrl: 'https://pic1.imgdb.cn/item/689dd5ec58cb8da5c8251893.jpg',
+      appUrl: 'https://149.30.163.235:32011/#/link?allwin=BT8jp798vc163kFA9xyh2g%3D%3D'
+    },
   ]);
 
   const [imageBoxes] = useState<ImageBoxItem[]>([
