@@ -147,6 +147,13 @@ function App() {
       iconUrl: 'https://pic1.imgdb.cn/item/68692e6658cb8da5c89176f8.jpg',
       appUrl: 'https://gfvgx.jgqvji.com/app/register.php?site_id=1030&topId=1744632'
     },
+     {
+      id: 18,
+      name: '大满贯',
+      description: '首存100+100',
+      iconUrl: 'https://pic1.imgdb.cn/item/6911f7f73203f7be00ed9d46.jpg',
+      appUrl: 'https://tz.wx-gujdtq3.com/app/register.php?site_id=2228&topId=1661558'
+    },
   ]);
 
   const [imageBoxes] = useState<ImageBoxItem[]>([
