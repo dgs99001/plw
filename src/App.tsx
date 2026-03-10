@@ -154,13 +154,6 @@ function App() {
       iconUrl: 'https://pic1.imgdb.cn/item/6911f7f73203f7be00ed9d46.jpg',
       appUrl: 'https://tz.wx-gujdtq3.com/app/register.php?site_id=2228&topId=1661558'
     },
-     {
-      id: 19
-      name: 'NG南宫',
-      description: '首存100+100',
-      iconUrl: 'https://pic1.imgdb.cn/item/689dd5ec58cb8da5c8251893.jpg',
-      appUrl: 'https://149.30.163.235:32011/#/link?allwin=BT8jp798vc163kFA9xyh2g%3D%3D'
-    },
   ]);
 
   const [imageBoxes] = useState<ImageBoxItem[]>([
