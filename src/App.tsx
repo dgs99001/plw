@@ -133,7 +133,13 @@ function App() {
       iconUrl: 'https://pic1.imgdb.cn/item/686f644658cb8da5c899de0b.png',
       appUrl: 'https://wlkyiy.paradisemall.net/app/register.php?site_id=1021&topId=5519693'
     },
-
+ {
+      id: 16,
+      name: '超凡国际',
+      description: '首存100+100',
+      iconUrl: 'https://pic1.imgdb.cn/item/68692e6558cb8da5c89176f7.jpg',
+      appUrl: 'https://pkajim.hfjcl.com/app/register.php?site_id=1032&topId=1056008'
+    },
   ]);
 
   const [imageBoxes] = useState<ImageBoxItem[]>([
