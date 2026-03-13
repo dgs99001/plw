@@ -171,7 +171,7 @@ function App() {
     },
     {
       id: 2,
-      imageUrl: 'https://pic1.imgdb.cn/item/69b3c9fd3c25a1c98035b18a.jpg',
+      imageUrl: 'https://pic1.imgdb.cn/item/69b3ca743c25a1c98035b48b.jpg',
       linkUrl: 'https://www.paopaomiyu.xyz'
     },
     {
