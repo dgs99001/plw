@@ -164,18 +164,14 @@ function App() {
   ]);
 
   const [imageBoxes] = useState<ImageBoxItem[]>([
+   
     {
       id: 1,
-      imageUrl:  'https://pic1.imgdb.cn/item/69202ede3203f7be001d1dd5.webp',
-      linkUrl: 'https://t.me/hhkk8899'
-    },
-    {
-      id: 2,
       imageUrl: 'https://i.postimg.cc/fRYB9h6M/pao-pao-mi-yu1111.webp',
       linkUrl: 'https://www.paopaomiyu.xyz'
     }, 
     {
-      id: 3,
+      id: 2,
       imageUrl: 'https://pic1.imgdb.cn/item/68692e6658cb8da5c89176fb.png',
       linkUrl: 'https://www.91ajs.com'
     }
