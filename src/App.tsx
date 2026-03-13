@@ -171,8 +171,8 @@ function App() {
     },
     {
       id: 2,
-      imageUrl: 'https://pic1.imgdb.cn/item/69664bd90e6bc0c5db97a9a6.jpg',
-      linkUrl: 'https://www.wangwangcn.com/'
+      imageUrl: 'https://pic1.imgdb.cn/item/69b3c9683c25a1c98035aec9.jpg',
+      linkUrl: 'https://www.paopaomiyu.xyz'
     },
     {
       id: 3,
