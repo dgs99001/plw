@@ -49,7 +49,7 @@ function App() {
       appUrl: 'https://bakmry.gziasti.com/app/register.php?site_id=1050&topId=880722&selfPlanId=855049'
     },
     {
-      id: 7
+      id: 7,
       name: 'top1体育',
       description: '',
       iconUrl: 'https://pic1.imgdb.cn/item/686c718458cb8da5c895dcf1.jpg',
