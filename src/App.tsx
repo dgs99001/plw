@@ -27,7 +27,7 @@ function App() {
       iconUrl: 'https://pic1.imgdb.cn/item/695248a74b4fb88febf26626.jpg',
       appUrl: 'https://tfajn.hcjwj.com/app/register.php?site_id=2081&topId=23647&selfPlanId=6413'
     }, 
-                     {
+    {
       id: 3,
       name: '新时代',
       description: '',
