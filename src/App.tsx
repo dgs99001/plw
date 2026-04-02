@@ -27,13 +27,6 @@ function App() {
       iconUrl: 'https://pic1.imgdb.cn/item/695248a74b4fb88febf26626.jpg',
       appUrl: 'https://tfajn.hcjwj.com/app/register.php?site_id=2081&topId=23647&selfPlanId=6413'
     }, 
-        {
-      id: 2,
-      name: '28圈',
-      description: '',
-      iconUrl: 'https://pic1.imgdb.cn/item/68692e6658cb8da5c89176f9.jpg',
-      appUrl: 'https://149.30.210.144:35384/#/link?allwin=7qsbWl9437468'
-    },
                      {
       id: 3,
       name: '新时代',
