@@ -27,6 +27,13 @@ function App() {
       iconUrl: 'https://pic1.imgdb.cn/item/695248a74b4fb88febf26626.jpg',
       appUrl: 'https://tfajn.hcjwj.com/app/register.php?site_id=2081&topId=23647&selfPlanId=6413'
     }, 
+        {
+      id: 2,
+      name: '28圈',
+      description: '',
+      iconUrl: 'https://pic1.imgdb.cn/item/68692e6658cb8da5c89176f9.jpg',
+      appUrl: 'https://149.30.210.144:35384/#/link?allwin=7qsbWl9437468'
+    },
     {
       id: 3,
       name: '新时代',
@@ -40,6 +47,13 @@ function App() {
       description: '',
       iconUrl: 'https://pic1.imgdb.cn/item/6937c17f00233646958cd102.jpg',
       appUrl: 'https://tfajn.hcjwj.com/app/register.php?site_id=1058&topId=26442&selfPlanId=1692'
+    },
+     {
+      id: 5,
+      name: '老友会',
+      description: '',
+      iconUrl: 'https://pic1.imgdb.cn/item/69ce20a038e406efb4363371.jpg',
+      appUrl: 'https://laoaasgjoa.top/rect/?code=94657'
     },
        {
       id: 6,
