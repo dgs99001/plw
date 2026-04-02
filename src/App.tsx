@@ -41,13 +41,6 @@ function App() {
       iconUrl: 'https://pic1.imgdb.cn/item/6937c17f00233646958cd102.jpg',
       appUrl: 'https://tfajn.hcjwj.com/app/register.php?site_id=1058&topId=26442&selfPlanId=1692'
     },
-      {
-      id: 5,
-      name: '老友会',
-      description: '',
-      iconUrl: 'https://pic1.imgdb.cn/item/69ce20a038e406efb4363371.jpg',
-      appUrl: 'https://laoaasgjoa.top/rect/?code=94657'
-    },
        {
       id: 6,
       name: '非凡娱乐 ',
