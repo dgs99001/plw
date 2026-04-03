@@ -48,13 +48,6 @@ function App() {
       iconUrl: 'https://pic1.imgdb.cn/item/68692e6658cb8da5c89176fd.jpg',
       appUrl: 'https://bakmry.gziasti.com/app/register.php?site_id=1050&topId=880722&selfPlanId=855049'
     },
-         {
-      id: 5,
-      name: '老友会',
-      description: '',
-      iconUrl: 'https://pic1.imgdb.cn/item/69ce20a038e406efb4363371.jpg',
-      appUrl: 'https://laoaasgjoa.top/rect/?code=94657'
-    },
     {
       id: 6,
       name: 'top1体育',
@@ -68,13 +61,6 @@ function App() {
       description: '',
       iconUrl: 'https://pic1.imgdb.cn/item/68692e6758cb8da5c89176fe.jpg',
       appUrl: 'https://tz.wx-zxivoq2.com/app/register.php?site_id=2173&topId=1090266'
-    },
-                   {
-      id: 8,
-      name: '星耀国际',
-      description: '',
-      iconUrl: 'https://pic1.imgdb.cn/item/69327e9bd1e741a32bf19523.jpg',
-      appUrl: 'https://gedxs.hcjwj.com/app/register.php?site_id=1057&topId=22066'
     },
          {
       id: 9,
