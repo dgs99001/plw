@@ -20,7 +20,14 @@ function App() {
   const [heroDescription] = useState('');
 
   const [apps] = useState<AppItem[]>([
-         {
+      
+               {
+      id: 21,
+      name: '汇赢国际',
+      description: '',
+      iconUrl: 'https://pic1.imgdb.cn/item/69da7d4e757fdade5eafac10.jpg',
+      appUrl: 'https://ncgca.tprsmi.com/app/register.php?site_id=1062&topId=13593&selfPlanId=918'
+    },{
       id: 1,
       name: '君临国际 ',
       description: '',
@@ -160,13 +167,6 @@ function App() {
       description: '',
       iconUrl: 'https://pic1.imgdb.cn/item/689dd5ec58cb8da5c8251893.jpg',
       appUrl: 'https://149.30.163.235:32011/#/link?allwin=BT8jp798vc163kFA9xyh2g%3D%3D'
-    },
-              {
-      id: 21,
-      name: '汇赢国际',
-      description: '15号开业领百万红包',
-      iconUrl: 'https://pic1.imgdb.cn/item/69da7d4e757fdade5eafac10.jpg',
-      appUrl: 'https://ncgca.tprsmi.com/app/register.php?site_id=1062&topId=13593&selfPlanId=918'
     },
   ]);
 
