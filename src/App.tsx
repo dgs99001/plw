@@ -168,6 +168,13 @@ function App() {
       iconUrl: 'https://pic1.imgdb.cn/item/689dd5ec58cb8da5c8251893.jpg',
       appUrl: 'https://149.30.163.235:32011/#/link?allwin=BT8jp798vc163kFA9xyh2g%3D%3D'
     },
+           {
+      id: 21,
+      name: '梦想国际',
+      description: '20号开业发放百万红包雨',
+      iconUrl: 'https://pic1.imgdb.cn/item/69df01c6f76f4dd14b4c2858.jpg',
+      appUrl: 'https://mgokgd.jgqvji.com/app/register.php?site_id=1061&pt=08A0E1AF-96B3-A9C8-6E51-1D02FD14ABAC'
+    },
   ]);
 
   const [imageBoxes] = useState<ImageBoxItem[]>([
