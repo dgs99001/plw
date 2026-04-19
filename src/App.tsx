@@ -34,6 +34,13 @@ function App() {
       iconUrl: 'https://pic1.imgdb.cn/item/695248a74b4fb88febf26626.jpg',
       appUrl: 'https://tfajn.hcjwj.com/app/register.php?site_id=2081&topId=23647&selfPlanId=6413'
     }, 
+             {
+      id: 21,
+      name: '梦想国际',
+      description: '',
+      iconUrl: 'https://i.postimg.cc/hPT71YSf/meng-xiang-guo-ji.jpg',
+      appUrl: 'https://mgokgd.jgqvji.com/app/register.php?site_id=1061&pt=08A0E1AF-96B3-A9C8-6E51-1D02FD14ABAC'
+    },
     {
       id: 2,
       name: '新时代',
@@ -167,14 +174,7 @@ function App() {
       description: '',
       iconUrl: 'https://pic1.imgdb.cn/item/689dd5ec58cb8da5c8251893.jpg',
       appUrl: 'https://149.30.163.235:32011/#/link?allwin=BT8jp798vc163kFA9xyh2g%3D%3D'
-    },
-           {
-      id: 21,
-      name: '梦想国际',
-      description: '',
-      iconUrl: 'https://i.postimg.cc/hPT71YSf/meng-xiang-guo-ji.jpg',
-      appUrl: 'https://mgokgd.jgqvji.com/app/register.php?site_id=1061&pt=08A0E1AF-96B3-A9C8-6E51-1D02FD14ABAC'
-    },
+    }
   ]);
 
   const [imageBoxes] = useState<ImageBoxItem[]>([
