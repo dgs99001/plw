@@ -161,7 +161,7 @@ function App() {
       iconUrl: 'https://pic1.imgdb.cn/item/69f4835ec16184acf99e4245.jpg',
       appUrl: 'https://rsesra.hfjcl.com/app/register.php?site_id=1064&pt=FA9067F8-D104-5451-A6AB-960962BAB808'
   }
-  ]);
+  );
 
   const [imageBoxes] = useState<ImageBoxItem[]>([
    
