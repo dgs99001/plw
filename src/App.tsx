@@ -160,7 +160,7 @@ function App() {
       description: '5号正式开业发放百万红包雨
 ',
       iconUrl: 'https://pic1.imgdb.cn/item/69f4835ec16184acf99e4245.jpg',
-      appUrl: 'https://rsesra.hfjcl.com/app/register.php?site_id=1064&pt=FA9067F8-D104-5451-A6AB-960962BAB808');
+      appUrl: 'https://rsesra.hfjcl.com/app/register.php?site_id=1064&pt=FA9067F8-D104-5451-A6AB-960962BAB808' },
 
   const [imageBoxes] = useState<ImageBoxItem[]>([
    
