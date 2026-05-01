@@ -155,12 +155,12 @@ function App() {
       appUrl: 'https://149.30.163.235:32011/#/link?allwin=BT8jp798vc163kFA9xyh2g%3D%3D'
     }
         {
-      id: 22,
+      id: 24,
       name: '领航国际',
       description: '',
       iconUrl: 'https://pic1.imgdb.cn/item/69f4835ec16184acf99e4245.jpg',
       appUrl: 'https://rsesra.hfjcl.com/app/register.php?site_id=1064&pt=FA9067F8-D104-5451-A6AB-960962BAB808'
-    }
+  }
   ]);
 
   const [imageBoxes] = useState<ImageBoxItem[]>([
