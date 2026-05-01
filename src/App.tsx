@@ -155,7 +155,7 @@ function App() {
       appUrl: 'https://149.30.163.235:32011/#/link?allwin=BT8jp798vc163kFA9xyh2g%3D%3D'
     },
     {
-      id: 24,
+      id: 24, 
       name: '领航国际',
       description: '5号正式开业发放百万红包雨',
       iconUrl: 'https://pic1.imgdb.cn/item/69f4835ec16184acf99e4245.jpg',
