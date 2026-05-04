@@ -22,14 +22,14 @@ function App() {
   const [apps] = useState<AppItem[]>([
       
           {
-      id: 24,
+      id: 1,
       name: '领航国际',
       description: '',
       iconUrl: 'https://pic1.imgdb.cn/item/69f4835ec16184acf99e4245.jpg',
       appUrl: 'https://rsesra.hfjcl.com/app/register.php?site_id=1064&pt=FA9067F8-D104-5451-A6AB-960962BAB808'
     }, 
     {
-      id: 21,
+      id: 2,
       name: '汇赢国际',
       description: '',
       iconUrl: 'https://pic1.imgdb.cn/item/69da7d4e757fdade5eafac10.jpg',
