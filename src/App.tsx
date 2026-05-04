@@ -21,7 +21,14 @@ function App() {
 
   const [apps] = useState<AppItem[]>([
       
-               {
+          {
+      id: 24,
+      name: '领航国际',
+      description: '5号正式开业发放百万红包雨',
+      iconUrl: 'https://pic1.imgdb.cn/item/69f4835ec16184acf99e4245.jpg',
+      appUrl: 'https://rsesra.hfjcl.com/app/register.php?site_id=1064&pt=FA9067F8-D104-5451-A6AB-960962BAB808'
+    }
+    {
       id: 21,
       name: '汇赢国际',
       description: '',
@@ -154,13 +161,6 @@ function App() {
       iconUrl: 'https://pic1.imgdb.cn/item/689dd5ec58cb8da5c8251893.jpg',
       appUrl: 'https://149.30.163.235:32011/#/link?allwin=BT8jp798vc163kFA9xyh2g%3D%3D'
     },
-    {
-      id: 24,
-      name: '领航国际',
-      description: '5号正式开业发放百万红包雨',
-      iconUrl: 'https://pic1.imgdb.cn/item/69f4835ec16184acf99e4245.jpg',
-      appUrl: 'https://rsesra.hfjcl.com/app/register.php?site_id=1064&pt=FA9067F8-D104-5451-A6AB-960962BAB808'
-    }
   ]);
 
   const [imageBoxes] = useState<ImageBoxItem[]>([
