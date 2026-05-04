@@ -24,7 +24,7 @@ function App() {
           {
       id: 24,
       name: '领航国际',
-      description: '5号正式开业发放百万红包雨',
+      description: '',
       iconUrl: 'https://pic1.imgdb.cn/item/69f4835ec16184acf99e4245.jpg',
       appUrl: 'https://rsesra.hfjcl.com/app/register.php?site_id=1064&pt=FA9067F8-D104-5451-A6AB-960962BAB808'
     }, 
@@ -108,7 +108,7 @@ function App() {
       id: 14,
       name: '问鼎娱乐',
       description: '',
-      iconUrl: 'https://postimg.cc/v1hRyRtm',
+      iconUrl: 'https://i.postimg.cc/FR5hjNf0/wen-ding-guo-ji.webp',
       appUrl: 'https://onkrcy.hefaship.com/app/register.php?site_id=1020&topId=21543657'
     },
 
