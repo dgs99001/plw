@@ -156,7 +156,7 @@ function App() {
     },
       {
       id: 22,
-      name: 'NG南宫 ',
+      name: 'NG南宫',
       description: '',
       iconUrl: 'https://pic1.imgdb.cn/item/689dd5ec58cb8da5c8251893.jpg',
       appUrl: 'https://149.30.163.235:32011/#/link?allwin=BT8jp798vc163kFA9xyh2g%3D%3D'
