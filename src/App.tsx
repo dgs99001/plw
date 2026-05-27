@@ -160,6 +160,13 @@ function App() {
       iconUrl: 'https://pic1.imgdb.cn/item/689dd5ec58cb8da5c8251893.jpg',
       appUrl: 'https://149.30.163.235:32011/#/link?allwin=BT8jp798vc163kFA9xyh2g%3D%3D'
     },
+             {
+      id: 21,
+      name: '戴高乐',
+      description: '30号开业发放百万红包',
+      iconUrl: 'https://pic1.imgdb.cn/item/6a16f2efcf685663461371d7.jpg',
+      appUrl: 'https://hbffbr.hcjwj.com/app/register.php?site_id=2091&topId=79040'
+    }, 
   ]);
 
   const [imageBoxes] = useState<ImageBoxItem[]>([
