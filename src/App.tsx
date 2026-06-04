@@ -32,7 +32,7 @@ function App() {
       name: '戴高乐',
       description: '',
       iconUrl: 'https://pic1.imgdb.cn/item/6a16f2efcf685663461371d7.jpg',
-      appurl: 'https://hbffbr.hcjwj.com/app/register.php?site_id=2091&topId=79040'
+      appUrl: 'https://hbffbr.hcjwj.com/app/register.php?site_id=2091&topId=79040'
     }, 
     {
       id: 1,
