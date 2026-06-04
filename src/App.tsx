@@ -20,7 +20,20 @@ function App() {
   const [heroDescription] = useState('');
 
   const [apps] = useState<AppItem[]>([
-    
+                            {
+      id: 1,
+      name: '聚鑫汇',
+      description: '',
+      iconUrl: 'https://pic1.imgdb.cn/item/6a1b8d64172c6dd74dd826b9.jpg',
+      appUrl: 'https://ybkvbz.tckqxx.com/app/register.php?site_id=1066&topId=27475&selfPlanId=1330'
+    }, 
+  {
+      id: 1,
+      name: '戴高乐',
+      description: '',
+      iconUrl: 'https://pic1.imgdb.cn/item/6a16f2efcf685663461371d7.jpg',
+      appurl: 'https://hbffbr.hcjwj.com/app/register.php?site_id=2091&topId=79040'
+    }, 
     {
       id: 1,
       name: '梦想国际',
@@ -161,13 +174,7 @@ function App() {
       iconUrl: 'https://pic1.imgdb.cn/item/689dd5ec58cb8da5c8251893.jpg',
       appUrl: 'https://149.30.163.235:32011/#/link?allwin=BT8jp798vc163kFA9xyh2g%3D%3D'
     },
-                {
-      id: 1,
-      name: '戴高乐',
-      description: '筹备开业，敬请期待。',
-      iconUrl: 'https://pic1.imgdb.cn/item/6a16f2efcf685663461371d7.jpg',
-      appUrl: 'https://hbffbr.hcjwj.com/app/register.php?site_id=2091&topId=79040'
-    }, 
+    
   ]);
 
   const [imageBoxes] = useState<ImageBoxItem[]>([
