@@ -177,7 +177,7 @@ function App() {
          { 
     id: 1, 
     name: "龙腾国际",
-    description: "", 
+    description: "6月10号开业领取百万红包", 
     iconUrl: "https://pic1.imgdb.cn/item/6a23ec2f0c24090b1026d76e.jpg",
     appurl: "https://psktkx.tckqxx.com/app/register.php?site_id=1065&topId=27266&selfPlanId=896",
   },
