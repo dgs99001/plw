@@ -174,7 +174,13 @@ function App() {
       iconUrl: 'https://pic1.imgdb.cn/item/689dd5ec58cb8da5c8251893.jpg',
       appUrl: 'https://149.30.163.235:32011/#/link?allwin=BT8jp798vc163kFA9xyh2g%3D%3D'
     },
-    
+         { 
+    id: 1, 
+    name: "龙腾国际",
+    description: "", 
+    iconUrl: "https://pic1.imgdb.cn/item/6a23ec2f0c24090b1026d76e.jpg",
+    appurl: "https://psktkx.tckqxx.com/app/register.php?site_id=1065&topId=27266&selfPlanId=896",
+  },
   ]);
 
   const [imageBoxes] = useState<ImageBoxItem[]>([
