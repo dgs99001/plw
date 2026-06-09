@@ -25,7 +25,7 @@ function App() {
     name: "龙腾国际",
     description: "", 
     iconUrl: "https://pic1.imgdb.cn/item/6a23ec2f0c24090b1026d76e.jpg",
-    appurl: "https://psktkx.tckqxx.com/app/register.php?site_id=1065&topId=27266&selfPlanId=896",
+    appUrl: "https://psktkx.tckqxx.com/app/register.php?site_id=1065&topId=27266&selfPlanId=896",
   },         
     {
       id: 2,
