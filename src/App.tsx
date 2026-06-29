@@ -20,20 +20,21 @@ function App() {
   const [heroDescription] = useState('');
 
   const [apps] = useState<AppItem[]>([
-             { 
-    id: 1, 
-    name: "龙腾国际",
-    description: "", 
-    iconUrl: "https://pic1.imgdb.cn/item/6a23ec2f0c24090b1026d76e.jpg",
-    appUrl: "https://psktkx.tckqxx.com/app/register.php?site_id=1065&topId=27266&selfPlanId=896",
-  },         
-    {
+         {
       id: 2,
       name: '聚鑫汇',
       description: '',
       iconUrl: 'https://pic1.imgdb.cn/item/6a1b8d64172c6dd74dd826b9.jpg',
       appUrl: 'https://ybkvbz.tckqxx.com/app/register.php?site_id=1066&topId=27475&selfPlanId=1330'
     }, 
+    { 
+    id: 1, 
+    name: "龙腾国际",
+    description: "", 
+    iconUrl: "https://pic1.imgdb.cn/item/6a23ec2f0c24090b1026d76e.jpg",
+    appUrl: "https://psktkx.tckqxx.com/app/register.php?site_id=1065&topId=27266&selfPlanId=896",
+  },         
+
   {
       id: 3,
       name: '戴高乐',
@@ -166,13 +167,6 @@ function App() {
       description: '',
       iconUrl: 'https://pic1.imgdb.cn/item/68692e6658cb8da5c89176f8.jpg',
       appUrl: 'https://gfvgx.jgqvji.com/app/register.php?site_id=1030&topId=1744632'
-    },
-          {
-      id: 22,
-      name: '28圈',
-      description: '',
-      iconUrl: 'https://pic1.imgdb.cn/item/68692e6658cb8da5c89176f9.jpg',
-      appUrl: 'https://149.30.210.144:35384/#/link?allwin=7qsbWl9437468'
     },
       {
       id: 23,
