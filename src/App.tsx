@@ -286,12 +286,12 @@ function App() {
                 <a
                   href={box.linkUrl}
                   onClick={(e) => handleImageBoxClick(box.linkUrl, e)}
-                  className="block w-full h-32 sm:h-40 md:h-48 rounded-xl sm:rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-1 active:scale-[0.99]"
+                  className="block w-full rounded-xl sm:rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-1 active:scale-[0.99]"
                 >
                   <img
                     src={box.imageUrl}
                     alt={`Image Box ${box.id}`}
-                    className="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
+                    className="w-full h-auto block transition-transform duration-300 hover:scale-105"
                   />
                 </a>
               </div>
