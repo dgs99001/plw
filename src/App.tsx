@@ -182,7 +182,7 @@ function App() {
     {
       id: 1,
       imageUrl: 'https://pic.imgdb.cn/i/033oY29bM71ksG96Ei6IgX.jpg',
-      linkUrl: 'https：//t.me/ty2299'
+      linkUrl: 'https://t.me/ty2299'
     }, 
     {
       id: 2,
